@@ -1,0 +1,8 @@
+.DS_Store
+*.backup*
+*.before_*
+PROMPT.txt
+DESIGN_SYSTEM.txt
+Sprout.png
+skills-lock.json
+.*/
